@@ -1,0 +1,1 @@
+# Mandie-Sumang_BSC-TRAINEE-EXAM
