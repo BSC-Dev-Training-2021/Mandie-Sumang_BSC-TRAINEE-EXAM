@@ -13,8 +13,17 @@
         box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
         text-align: right;
         font-size: 30px;
+        display: flex;
+        justify-content: space-between;
+        
+        align-items: center;
      
 
+}
+.openshit{
+       padding-left: 80px;
+       width: 70%;
+       text-align: left;
 }
 .BOXcontainer {
    
@@ -58,7 +67,18 @@
        padding-left: 20px;
 }
 
+.list ,a{
+       text-decoration: none;
+       color: black;
+}
+
+
+
+.outbut{
+       text-align: left;
+       font-size: 30px;
+       text-decoration: none;
+
+}
+
   
- .noteclass{
-       height: 50px;
- }
