@@ -149,7 +149,7 @@ Profile
 <br>
 <br>
 <br>
-<a class="outbut" href="CheckoutPage.html">Checkout</a>
+<a class="outbut" href="CheckoutPagephp.php">Checkout</a>
 
 
 

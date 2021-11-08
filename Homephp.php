@@ -13,7 +13,7 @@ Home
   <a href="..\php_exam.2\php\data.php" >Product Listing</a>
 
     <a href="" >About</a>
-      <a href="MyAccountPage.html" >My Account</a>
+      <a href="MyAccountPagephp.php" >My Account</a>
 </div>
 <br>
 
